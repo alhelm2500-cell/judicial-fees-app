@@ -2,7 +2,7 @@
   "storeSlot": {
     "enabled": true,
     "icon": "🆕",
-    "label": "تحديث v1.1 متاح جدا",
+    "label": "تحديث v1.1 متاح",
     "title": "تحميل الإصدار الأحدث من المتجر",
     "url": "https://judicial-fees-app.alhelm2500.workers.dev/",
     "bgColor": "#e67e22",
@@ -12,7 +12,7 @@
   "secondarySlot": {
     "enabled": true,
     "icon": "📖",
-    "label": "دليل الإستخدام الحلو ",
+    "label": "دليل الإستخدام",
     "title": "قراءة التعليمات وشرح البرنامج",
     "url": "https://alhelm2500-cell.github.io/judicial-fees-app/guide.html",
     "bgColor": "#16a085",
