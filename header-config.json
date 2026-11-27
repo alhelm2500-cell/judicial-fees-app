@@ -12,7 +12,7 @@
   "secondarySlot": {
     "enabled": true,
     "icon": "📖",
-    "label": "اتغير",
+    "label": "تعليمات",
     "title": "قراءة التعليمات وشرح البرنامج",
     "url": "https://alhelm2500-cell.github.io/judicial-fees-app/guide.html",
     "bgColor": "#16a085",
