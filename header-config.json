@@ -1,0 +1,22 @@
+{
+  "storeSlot": {
+    "enabled": true,
+    "icon": "🆕",
+    "label": "تحديث v1.1 متاح",
+    "title": "تحميل الإصدار الأحدث من المتجر",
+    "url": "https://judicial-fees-app.alhelm2500.workers.dev/",
+    "bgColor": "#e67e22",
+    "textColor": "#ffffff",
+    "pulse": true
+  },
+  "secondarySlot": {
+    "enabled": true,
+    "icon": "📖",
+    "label": "تعليمات جديدة",
+    "title": "قراءة التعليمات الجديدة",
+    "url": "https://example.com/instructions",
+    "bgColor": "#16a085",
+    "textColor": "#ffffff",
+    "pulse": false
+  }
+}
