@@ -1,0 +1,10 @@
+{
+  "resoomStoreSlot": {
+    "enabled": true,
+    "icon": "🏪",
+    "label": "تحديث / المتجر",
+    "title": "فتح متجر التطبيقات والتحديثات",
+    "url": "https://judicial-fees-app.alhelm2500.workers.dev/",
+    "pulse": true
+  }
+}
